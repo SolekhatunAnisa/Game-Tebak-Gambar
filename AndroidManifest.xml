@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.atebakgambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AnakDungu"
+            android:label="@string/title_activity_anak_dungu" >
+        </activity>
+        <activity
+            android:name=".AyamBangko"
+            android:label="@string/title_activity_ayam_bangko" >
+        </activity>
+        <activity
+            android:name=".Bandartekor"
+            android:label="@string/title_activity_bandartekor" >
+        </activity>
+        <activity
+            android:name=".BantingHarga"
+            android:label="@string/title_activity_banting_harga" >
+        </activity>
+        <activity
+            android:name=".BatuJam"
+            android:label="@string/title_activity_batu_jam" >
+        </activity>
+        <activity
+            android:name=".Berakar"
+            android:label="@string/title_activity_berakar" >
+        </activity>
+        <activity
+            android:name=".BosanMengangur"
+            android:label="@string/title_activity_bosan_mengangur" >
+        </activity>
+        <activity
+            android:name=".Buahbibir"
+            android:label="@string/title_activity_buahbibir" >
+        </activity>
+        <activity
+            android:name=".Catur"
+            android:label="@string/title_activity_catur" >
+        </activity>
+        <activity
+            android:name=".Berhasil"
+            android:label="@string/title_activity_berhasil" >
+        </activity>
+    </application>
+
+</manifest>

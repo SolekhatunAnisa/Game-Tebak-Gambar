@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A Tebak Gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_anak_dungu">Gambar</string>
+    <string name="title_activity_ayam_bangko">Gambar</string>
+    <string name="title_activity_bandartekor">Gambar</string>
+    <string name="title_activity_banting_harga">Gambar</string>
+    <string name="title_activity_batu_jam">Gambar</string>
+    <string name="title_activity_berakar">Gambar</string>
+    <string name="title_activity_bosan_mengangur">Gambar</string>
+    <string name="title_activity_buahbibir">Gambar</string>
+    <string name="title_activity_catur">Gambar</string>
+    <string name="title_activity_berhasil">Berhasil</string>
+
+</resources>
